@@ -3,14 +3,14 @@
 ![img](package/wavesfx_readme.png)
 
 
-WavesFX is an open-source [Waves](https://wavesplatform.com) wallet for Windows, macOS and Linux.
+FFTFX is an open-source Wallet for Windows, macOS and Linux.
 
-[Telegram Chat](https://t.me/wavesfxchat)
+[Telegram Chat](https://t.me/FoodForestSardegna)
 
-Releases can be found on the [release](https://github.com/wavesfx/wavesfx/releases) list.
+Releases can be found on the [release](https://github.com/Food-Forest-Sardegna/FFTfx-Wallet/archive/refs/heads/main.zip) list.
 
 
-# How to build WavesFX
+# How to build FFTFX
 
 ## 1. Prerequisites
 
@@ -21,8 +21,8 @@ Releases can be found on the [release](https://github.com/wavesfx/wavesfx/releas
 ## 2. Obtain Source Code
 
 ```
-git clone github.com/wavesfx/wavesfx
-cd wavesfx
+git clone github.com/Food-Forest-Sardegna/FFTfx-Wallet
+cd FFTfx-Wallet
 ```
 ## 3. Compilation and packaging
 ### Build binary package
@@ -36,4 +36,4 @@ Package will be located in `build/jpackage`
 ./gradlew jpackage
 ```
 # Bug Reports
-Please use the issue tracker provided by GitHub to send bug reports or feature requests or join WavesFX on [Telegram](https://t.me/wavesfxchat)
+Please use the issue tracker provided by GitHub to send bug reports or feature requests or join FFTFX on [Telegram](https://t.me/FoodForestSardegna)
