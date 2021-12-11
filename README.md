@@ -5,10 +5,13 @@
 
 FFTFX is an open-source Wallet for Windows, macOS and Linux.
 
-[Telegram Chat](https://t.me/FoodForestSardegna)
+[Telegram Chat](https://t.me/+g-eDiEgT7iBkMzhk)
 
 Releases can be found on the [release](https://github.com/Food-Forest-Sardegna/FFTfx-Wallet/archive/refs/heads/main.zip) list.
 
+# How to Run FFTFX Wallet
+
+Download the above release and Run the Wallet inside the folder FFTfx-Wallet/build/jpackage/WavesFX/WavesFX.exe  
 
 # How to build FFTFX
 
@@ -36,4 +39,4 @@ Package will be located in `build/jpackage`
 ./gradlew jpackage
 ```
 # Bug Reports
-Please use the issue tracker provided by GitHub to send bug reports or feature requests or join FFTFX on [Telegram](https://t.me/FoodForestSardegna)
+Please use the issue tracker provided by GitHub to send bug reports or feature requests or join FFTFX on [Telegram](https://t.me/+g-eDiEgT7iBkMzhk)
