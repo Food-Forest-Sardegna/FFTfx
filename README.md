@@ -1,5 +1,8 @@
 # FFT FX Desktop Wallet
 
+[Guida in PDF Italiana](https://github.com/Food-Forest-Sardegna/FFTfx-Wallet/files/7710299/Readme.ITA.FFTFX.pdf)
+
+
 ![FFT FX Wallet](https://user-images.githubusercontent.com/75376808/145969261-fb2ce18f-3db0-400a-bd28-ede073d02519.png)
 
 ![FFT FX Wallet 1](https://user-images.githubusercontent.com/75376808/145969291-68358ae7-2dca-4306-bb1f-1fe51c6647e6.JPG)
