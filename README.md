@@ -1,42 +1,18 @@
-# WavesFX
+# FFT FX Desktop Wallet
 
-![img](package/wavesfx_readme.png)
+![FFT FX Wallet](https://user-images.githubusercontent.com/75376808/145969261-fb2ce18f-3db0-400a-bd28-ede073d02519.png)
+
+![FFT FX Wallet 1](https://user-images.githubusercontent.com/75376808/145969291-68358ae7-2dca-4306-bb1f-1fe51c6647e6.JPG)
 
 
-FFTFX is an open-source Wallet for Windows, macOS and Linux.
+The FFT FX Desktop Wallet is an open-source Wallet for Windows, macOS and Linux born from Waves FX.
 
-[Telegram Chat](https://t.me/+g-eDiEgT7iBkMzhk)
+[Telegram Chat](https://t.me/+g-eDiEgT7iBkMzhk) In case you need to connect internationally, join our english chat.
 
 Releases can be found on the [release](https://github.com/Food-Forest-Sardegna/FFTfx-Wallet/archive/refs/heads/main.zip) list.
 
 # How to Run FFTFX Wallet
 
-Download the above release and Run the Wallet inside the folder FFTfx-Wallet/build/jpackage/WavesFX/WavesFX.exe  
+Download the above release and Run the Wallet inside the folder FFTfx-Wallet/build/jpackage/WavesFX/WavesFX.exe which is located inside the folder of the wallet. You will need to extract the folder after downloading the wallet Zip file. Use the image below as a reference to get to the file.
 
-# How to build FFTFX
-
-## 1. Prerequisites
-
-### Install Java Development Kit (JDK) 16
-
-[OpenJDK](https://jdk.java.net/16/) and [AdoptOpenJDK](https://adoptopenjdk.net/archive.html) are excellent choices. 
-
-## 2. Obtain Source Code
-
-```
-git clone github.com/Food-Forest-Sardegna/FFTfx-Wallet
-cd FFTfx-Wallet
-```
-## 3. Compilation and packaging
-### Build binary package
-```
-./gradlew jpackageImage 
-```
-Package will be located in `build/jpackage`   
-### Build installer
-**Note:** Wix, a third-party tool, is required to generate an installer for Windows.
-```
-./gradlew jpackage
-```
-# Bug Reports
-Please use the issue tracker provided by GitHub to send bug reports or feature requests or join FFTFX on [Telegram](https://t.me/+g-eDiEgT7iBkMzhk)
+![FFT FX Folder](https://user-images.githubusercontent.com/75376808/145969443-85e89aa9-2d0c-4301-a62f-37390b8a3eb4.png)
